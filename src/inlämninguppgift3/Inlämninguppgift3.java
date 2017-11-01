@@ -1,8 +1,4 @@
 
-
-
-
-
 package inlämninguppgift3;
 
 import java.awt.BorderLayout;
@@ -388,5 +384,5 @@ public class Inlämninguppgift3 extends JFrame implements ActionListener {
 
     }
 }
-// hur kan jag lägga den i slumpmäsiga 
-// när jag kryssa på knappen ny och jag van den message kommer int att visa 
+
+// jag diskuterade   med Anna och tittade  litte på hennes kod men jag har jobbat själv på mitt sätt jag vill bara informera er  
